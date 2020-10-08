@@ -4,6 +4,7 @@ export const Container = styled.div`
     position: -webkit-sticky;
     position: sticky;
     top: 0;
+    z-index: 10;
 `;
 
 export const Navbar = styled.div`
@@ -48,6 +49,10 @@ export const Right= styled.div`
         flex-direction: row;
         align-items: center;
 
+        font-size: 1rem;
+        font-weight: bold;
+        letter-spacing: .05rem;
+
         text-decoration: none;
         color: var(--gray-text);
         text-transform: uppercase;
@@ -67,15 +72,56 @@ export const Right= styled.div`
         background-color: var(--blue-color);
         color: var(--white-text);
         text-transform: uppercase;
-        font-size: 1rem;
+        font-size: .9rem;
         height: 52px;
         padding: 0 12px;
         border: none;
         cursor: pointer;
         outline: 0;
+        letter-spacing: .05rem;
 
         &:hover {
             opacity: .95;
+        }
+    }
+`
+export const Row = styled.div`
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    max-width: 1070px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 0 10px;
+    
+    margin-bottom: 32px;
+    background-color: var(--bg-color);
+
+    > div {
+        display: flex;
+
+        > h1 {
+            color: var(--white-text);
+            cursor: pointer;
+
+            &:last-child {
+                margin-left: 24px;
+                color: var(--gray-text);
+            }
+
+            &:hover {
+                color: var(--white-text);
+            }
+        }
+
+        > input {
+            border: none;
+            padding: 12px 32px;
+            background-color: var(--gray-color);
+            border-radius: 2px;
+            outline: 0;
+            color: var(--white-text);
         }
     }
 `

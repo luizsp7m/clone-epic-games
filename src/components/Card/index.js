@@ -1,14 +1,14 @@
 import React from 'react';
 
-import { Container, Image } from './styles';
+import { Container } from './styles';
 
-function Card() {
+function Card(props) {
   return (
       <Container>
-        <Image />
-        <h1>The Witcher 3: Wild Hunt</h1>
-        <h2>CD Projekt RED</h2>
-        <span>R$ 29,99</span>
+        <img src={props.imagem} alt="#" />
+        <h1>{props.nome}</h1>
+        <h2>{props.desenvolvedora}</h2>
+        <span>{props.valor}</span>
       </Container>
   );
 }

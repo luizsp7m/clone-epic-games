@@ -47,7 +47,7 @@ export const Information= styled.div`
 
     > span {
         text-transform: uppercase;
-        font-size: 1.2rem;
+        font-size: 1.15rem;
         color: var(--gray-text);
         font-weight: bold;
         margin-bottom: 16px;
@@ -55,7 +55,7 @@ export const Information= styled.div`
 
     > h1 {
         color: var(--white-text);
-        font-size: 1.9rem;
+        font-size: 1.8rem;
         font-weight: 400;
         margin-bottom: 16px;
     }
@@ -63,8 +63,10 @@ export const Information= styled.div`
     > p {
         width: 85%;
         color: var(--gray-text);
-        font-size: 1.4rem;
+        font-size: 1.35rem;
         margin-bottom: 40px;
+        line-height: 1.9rem;
+        font-weight: 600;
     }
 
     > a {

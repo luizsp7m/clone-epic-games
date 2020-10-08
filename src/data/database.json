@@ -1,0 +1,74 @@
+{
+    "titulos": [
+        {
+            "titulo": "Novos lançamentos"
+        },
+
+        {
+            "titulo": "Mais vendidos"
+        },
+
+        {
+            "titulo": "Jogo grátis"
+        },
+
+        {
+            "titulo": "FORTNITE"
+        }
+    ],
+
+    "jogos": [
+        {
+            "nome": "Primordials of Amyrion",
+            "desenvolvedora": "GD Entertainment | Wiregames",
+            "valor": "28,99",
+            "imagem": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/ea_primordials_of_amyrion_featured_carousel_mob-1080x1440-8311c5da9fc1048aa5c03a5dd5867946.png?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "The Solitaire Conspiracy",
+            "desenvolvedora": "Bithell Games",
+            "valor": "18,39",
+            "imagem": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/p_product-1200x1600-4c049af5e01dddb87f64f783e6246d9e.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Star Wars Squadrons",
+            "desenvolvedora": "Motive Studios | Electronic Arts",
+            "valor": "199,99",
+            "imagem": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/offer/MAV_EPIC_PORTRAIT-Product-Image_1200x1600-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Going Under",
+            "desenvolvedora": "Aggro Crab Games | Team17 Digital Ltd",
+            "valor": "59,99",
+            "imagem": "https://cdn1.epicgames.com/6b2ba3389f034a388f602047551b0bf5/offer/EGS_GoingUnder_AggroCrabGames_S6-1200x1600-10c32b98e6979b7edbf349b2b2c484f1.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Port Royale 4",
+            "desenvolvedora": "Gaming Minds Studios | Kalypso Media",
+            "valor": "99,00",
+            "imagem": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/offer/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S2-1200x1600-d64a2c6eb6f754d0b5f09fe7f325cd72.jpg?h=854&resize=1&w=640"
+        }
+    ],
+
+    "banner": [
+        {
+            "nome": "Star Trek Online",
+            "descricao": "Seja o capitão e comande a sua própria nave espacial!",
+            "botao": "Jogue grátis agora",
+            "imagem": "https://cdn2.unrealengine.com/breaker-1280x960-2-1280x960-198342555.png?h=720&resize=1&w=1280",
+            "cor": "#070707"
+        }, 
+
+        {
+            "nome": "Pacote Lendas Corrompidas",
+            "descricao": "Qual é o seu alinhamento caótico?",
+            "botao": "Saiba mais",
+            "imagem": "https://cdn2.unrealengine.com/egs-social-fn-corruptedlegends-breaker-1280x956-074721628.png?h=720&resize=1&w=1280",
+            "cor": "#920500"
+        }
+    ]
+}
