@@ -13,7 +13,7 @@
         },
 
         {
-            "titulo": "FORTNITE"
+            "titulo": "Atualizado recentemente"
         }
     ],
 
@@ -51,6 +51,41 @@
             "desenvolvedora": "Gaming Minds Studios | Kalypso Media",
             "valor": "99,00",
             "imagem": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/offer/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S2-1200x1600-d64a2c6eb6f754d0b5f09fe7f325cd72.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Heroes & Generals WWII",
+            "desenvolvedora": "RETO MOTO",
+            "valor": "Gratuito",
+            "imagem": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Before We Leave",
+            "desenvolvedora": "Balancing Monkey Games",
+            "valor": "37,99",
+            "imagem": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Industries of Titan",
+            "desenvolvedora": "Brace Yourself Gamess",
+            "valor": "56,99",
+            "imagem": "https://cdn1.epicgames.com/protea/offer/IoT_TT5_EGS_Library%20Tile%20Portrait_00000-1200x1600-cb919801007a973a78b9fffb02dfae99.png?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "Killing Floor 2",
+            "desenvolvedora": "Tripwire Interactive",
+            "valor": "59,99",
+            "imagem": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg?h=854&resize=1&w=640"
+        },
+
+        {
+            "nome": "The Red Lantern",
+            "desenvolvedora": "Timberline Studio",
+            "valor": "38,39",
+            "imagem": "https://cdn1.epicgames.com/65add98d18a64e2ead3b8f05c84cba94/offer/EGS_TimberlineStudio_TheRedLantern_S4-510x680-89312f7bf3da012e1606f730d8e14702%20(1)-510x680-89312f7bf3da012e1606f730d8e14702.jpg?h=854&resize=1&w=640"
         }
     ],
 

@@ -14,7 +14,7 @@ function Banner() {
                     <span>Já disponível</span>
                     <h1>CastleStorm 2</h1>
                     <p>
-                        Lorem ipsum dolor elit. id luctus. Sed viverra tristique molestie. Ut rutrum velit sapien, sit amet pellentesque
+                      Mire com suas catapultas! Comande suas tropas! Derrame sangue no campo de batalha!
                     </p>
                     <a href="#">Saiba mais</a>
                 </Information>

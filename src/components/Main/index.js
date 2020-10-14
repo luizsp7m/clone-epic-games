@@ -39,6 +39,17 @@ function Main() {
       </Releases>
 
       <Game cor={database.banner[1].cor} titulo={database.titulos[3].titulo} nome={database.banner[1].nome} descricao={database.banner[1].descricao} botao={database.banner[1].botao} imagem={database.banner[1].imagem} />
+
+      <Releases>
+          <h1>{database.titulos[3].titulo}</h1>
+          <Panel>
+            <Card imagem={database.jogos[5].imagem} nome={database.jogos[5].nome} desenvolvedora={database.jogos[5].desenvolvedora} valor={database.jogos[5].valor} />
+            <Card imagem={database.jogos[6].imagem} nome={database.jogos[6].nome} desenvolvedora={database.jogos[6].desenvolvedora} valor={database.jogos[6].valor} />
+            <Card imagem={database.jogos[7].imagem} nome={database.jogos[7].nome} desenvolvedora={database.jogos[7].desenvolvedora} valor={database.jogos[7].valor} />
+            <Card imagem={database.jogos[8].imagem} nome={database.jogos[8].nome} desenvolvedora={database.jogos[8].desenvolvedora} valor={database.jogos[8].valor} />
+            <Card imagem={database.jogos[9].imagem} nome={database.jogos[9].nome} desenvolvedora={database.jogos[9].desenvolvedora} valor={database.jogos[9].valor} />
+          </Panel>
+      </Releases>
     </Container>
   );
 }

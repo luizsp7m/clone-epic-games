@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container, Navbar, Left, Right, Row } from './styles';
+import { Container, Navbar, Left, Right, Row, MenuToggle } from './styles';
 
 import world from '../../assets/world.png';
 import user from '../../assets/user.png';
@@ -10,7 +10,7 @@ function Header() {
         <Container>
             <Navbar>
                 <Left>
-                    <a href="#">Store</a>
+                    <a href="#" className="active">Store</a>
                     <a href="#">Novidades</a>
                     <a href="#">Perguntas Frequentes</a>
                     <a href="#">Ajuda</a>
@@ -31,6 +31,14 @@ function Header() {
                         Baixar Epic Games
                 </button>
                 </Right>
+
+                <MenuToggle>
+                    <div className="menu-toggle">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </MenuToggle>
             </Navbar>
 
             <Row>
