@@ -4,11 +4,11 @@
 
 ## Descrição
 
-Projeto desenvolvido para reproduzir a interface do site Epic Games
+Projeto desenvolvido para reproduzir a interface da Epic Games
 
 ## Resultado
 
-![](https://i.imgur.com/D2udId0.png)
+![](https://i.imgur.com/fqqYA1K.gif)
 
 ## Tecnologias utilizadas
 - ReactJS
