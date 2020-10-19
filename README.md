@@ -8,7 +8,7 @@ Projeto desenvolvido para reproduzir a interface da Epic Games
 
 ## Resultado
 
-![](https://i.imgur.com/fqqYA1K.gif)
+[GIF](https://imgur.com/QaHiLGf)
 
 ## Tecnologias utilizadas
 - ReactJS
