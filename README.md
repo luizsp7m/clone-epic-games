@@ -1,16 +1,16 @@
-# UI Clone - Epic Games
+# Clone UI - Epic Games
 
-![](https://img.shields.io/github/languages/count/luizsp7m/clone-epic-games) ![](https://img.shields.io/github/languages/top/luizsp7m/clone-epic-games) ![](https://img.shields.io/github/last-commit/luizsp7m/clone-epic-games) ![](https://img.shields.io/github/repo-size/luizsp7m/clone-epic-games)
+This is a [Epic Games](https://www.epicgames.com/store/pt-BR/) UI Clone.
 
-## Descrição
+###### Warning: This application is not responsive.
 
-Projeto desenvolvido para reproduzir a interface da Epic Games
+##### [Site URL](https://clone-epic-games.vercel.app/) 
 
-## Resultado
+![]()
 
-[GIF](https://imgur.com/QaHiLGf)
+### Built with
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+- [React Icons](https://react-icons.github.io/react-icons/) - Icons
+- Flexbox
 
-## Tecnologias utilizadas
-- ReactJS
-- React Icons
-- Styled-components
